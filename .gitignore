@@ -1,4 +1,5 @@
 .idea
+vendor/.composer
 vendor/composer
 vendor/cordoval
 vendor/mockery
