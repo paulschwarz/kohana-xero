@@ -1,2 +1,7 @@
-application/cache/*
-application/logs/*
+.idea
+vendor/composer
+vendor/cordoval
+vendor/mockery
+vendor/autoload.php
+composer.lock
+phpspec-composer.php

@@ -1,0 +1,3 @@
+[submodule "vendor/php-xero"]
+	path = vendor/php-xero
+	url = https://github.com/XeroAPI/PHP-Xero.git
