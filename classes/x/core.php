@@ -9,7 +9,7 @@ class X_Core {
 
     public static function factory(X_Config $config, $format = 'json')
     {
-        return new Xero($config->consumer_key(), $config->consumer_secret(), $config->cert_path_public(),
+        return new X_API($config->consumer_key(), $config->consumer_secret(), $config->cert_path_public(),
             $config->cert_path_private(), $format);
     }
 

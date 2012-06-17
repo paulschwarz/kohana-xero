@@ -2,6 +2,7 @@
 
 include_once 'classes/x/config.php';
 include_once 'classes/x/core.php';
+include_once 'classes/x/api.php';
 include_once 'classes/x.php';
 
 class DescribeXero extends \PHPSpec\Context {
