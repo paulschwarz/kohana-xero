@@ -1,1 +1,1 @@
-<?php
+<?phpdefine('SYSPATH', 1);include_once 'init.php';

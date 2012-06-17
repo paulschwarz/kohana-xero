@@ -1,3 +1,6 @@
 [submodule "vendor/php-xero"]
 	path = vendor/php-xero
 	url = https://github.com/XeroAPI/PHP-Xero.git
+[submodule "vagrant/cookbooks"]
+	path = vagrant/cookbooks
+	url = git://github.com/Zeelot/vagrant-cookbooks.git
