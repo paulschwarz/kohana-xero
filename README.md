@@ -1,3 +1,5 @@
+*Unmaintained*, sorry! Since composer makes package management so simple I feel the concept of adapting the Xero PHP API wrapper for Kohana is unnecessary. 
+
 kohana-xero
 ===========
 
